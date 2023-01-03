@@ -1,0 +1,29 @@
+body{
+    background-color: #42C2FF;
+    background-image:url(images/cloud\ png.png );
+}
+.navbar-brand{
+    font-family: 'Courgette', cursive;
+    color:white;
+    margin-left: 16px;
+}
+.nav-link{
+    color: black;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+}
+.container-fluid{
+    background-color: #2192FF;
+}
+.navbar{
+    --bs-navbar-padding-x: 0;
+    --bs-navbar-padding-y: 0.1rem;
+}
+
+.btn-outline-success{
+    --bs-btn-color: #144272;
+    --bs-btn-border-color: #2C74B3;
+    --bs-btn-hover-bg:#144272;
+    --bs-btn-hover-border-color:white;
+}
